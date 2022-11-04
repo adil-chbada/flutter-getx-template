@@ -25,7 +25,7 @@ class CardBottomButtonsWidget extends StatelessWidget {
             return RaisedButtonCustomWidget(
               icon: Icons.edit,
               onPressed: _.edit(_.post),
-              text: 'Editar',
+              text: 'Edit',
             );
           },
         )
