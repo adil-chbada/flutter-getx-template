@@ -1,4 +1,4 @@
-# frontend
+# flutter-getx-template
 
 A new Flutter project.
 
