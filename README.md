@@ -1,4 +1,4 @@
-# cdc_frontend
+# frontend
 
 A new Flutter project.
 

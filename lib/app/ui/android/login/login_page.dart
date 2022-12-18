@@ -53,10 +53,10 @@ class LoginPage extends StatelessWidget {
       logo: const AssetImage('assets/images/icon.4b569d0.png'),
       onLogin: _authUser,
       onSignup: _signupUser,
+      onRecoverPassword: _recoverPassword,
       onSubmitAnimationCompleted: () {
         Get.toNamed(Routes.initial);
       },
-      onRecoverPassword: _recoverPassword,
     );
   }
 }
